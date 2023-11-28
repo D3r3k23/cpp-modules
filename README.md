@@ -1,2 +1,2 @@
 # cpp-modules
-C++ module testing
+C++ modules testing
